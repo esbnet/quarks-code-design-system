@@ -1,0 +1,3 @@
+{
+  "extends": "@quarks-code-ui/eslint-config"
+}
