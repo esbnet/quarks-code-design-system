@@ -5,8 +5,8 @@ import {
   fontWeights,
   lineHeights,
   radii,
-  space,
-} from '@quarks-code-ui/tokens'
+  space
+} from '@quarkscode-ui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {

@@ -2,6 +2,6 @@
   "compilerOptions": {
     "jsx": "react"
   },
-  "extends": "@quarks-code-ui/ts-config/base.json",
+  "extends": "@quarkscode-ui/ts-config/base.json",
   "include": ["src"]
 }
